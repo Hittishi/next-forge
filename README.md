@@ -16,4 +16,7 @@ Then read the [docs](https://docs.next-forge.com) for more information.
   <img src="https://contrib.rocks/image?repo=haydenbleasel/next-forge" />
 </a>
 
+
+
+
 Made with [contrib.rocks](https://contrib.rocks).
